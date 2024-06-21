@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @14-Sakshi-09
+- 👀 I am a fresher
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on new projects.
